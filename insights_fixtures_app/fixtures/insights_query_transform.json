@@ -1,0 +1,13 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Transform",
+  "modified": "2024-05-22 16:40:04.025278",
+  "name": "dkiekcbgrq",
+  "options": "{}",
+  "parent": "QRY-0012",
+  "parentfield": "transforms",
+  "parenttype": "Insights Query",
+  "type": ""
+ }
+]

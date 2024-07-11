@@ -1,0 +1,93 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Insights Dashboard Item",
+  "item_id": "854301",
+  "item_type": "Filter",
+  "layout": "{\"i\":854301,\"x\":0,\"y\":0,\"w\":7,\"h\":2,\"moved\":false}",
+  "modified": "2024-07-11 13:33:37.072024",
+  "name": 5,
+  "options": "{\"links\":{\"22272\":{\"label\":\"Creation Time\",\"column\":\"creation_time\",\"table\":\"tabCustomer\",\"type\":\"Datetime\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"Datetime - Customer\",\"value\":\"tabCustomer.creation_time\"},\"45848\":{\"label\":\"Creation Time\",\"column\":\"creation_time\",\"table\":\"tabCustomer\",\"type\":\"Datetime\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"Datetime - Customer\",\"value\":\"tabCustomer.creation_time\"},\"133785\":{\"label\":\"Creation Time\",\"column\":\"creation_time\",\"table\":\"tabCustomer\",\"type\":\"Datetime\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"Datetime - Customer\",\"value\":\"tabCustomer.creation_time\"},\"157374\":{\"label\":\"Creation Time\",\"column\":\"creation_time\",\"table\":\"tabCustomer\",\"type\":\"Datetime\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"Datetime - Customer\",\"value\":\"tabCustomer.creation_time\"},\"489888\":{\"label\":\"Creation Time\",\"column\":\"creation_time\",\"table\":\"tabCustomer\",\"type\":\"Datetime\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"Datetime - Customer\",\"value\":\"tabCustomer.creation_time\"},\"515404\":{\"label\":\"Creation Time\",\"column\":\"creation_time\",\"table\":\"tabCustomer\",\"type\":\"Datetime\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"Datetime - Customer\",\"value\":\"tabCustomer.creation_time\"},\"557590\":{\"label\":\"Creation Time\",\"column\":\"creation_time\",\"table\":\"tabCustomer\",\"type\":\"Datetime\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"Datetime - Customer\",\"value\":\"tabCustomer.creation_time\"},\"602183\":{\"label\":\"Creation Time\",\"column\":\"creation_time\",\"table\":\"tabCustomer\",\"type\":\"Datetime\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"Datetime - Customer\",\"value\":\"tabCustomer.creation_time\"},\"614146\":{\"label\":\"Creation Time\",\"column\":\"creation_time\",\"table\":\"tabCustomer\",\"type\":\"Datetime\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"Datetime - Customer\",\"value\":\"tabCustomer.creation_time\"},\"616044\":{\"label\":\"Creation Time\",\"column\":\"creation_time\",\"table\":\"tabCustomer\",\"type\":\"Datetime\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"Datetime - Customer\",\"value\":\"tabCustomer.creation_time\"},\"705075\":{\"label\":\"Creation Time\",\"column\":\"creation_time\",\"table\":\"tabCustomer\",\"type\":\"Datetime\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"Datetime - Customer\",\"value\":\"tabCustomer.creation_time\"},\"875364\":{\"label\":\"Creation Time\",\"column\":\"creation_time\",\"table\":\"tabCustomer\",\"type\":\"Datetime\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"Datetime - Customer\",\"value\":\"tabCustomer.creation_time\"},\"935473\":{\"label\":\"Creation Time\",\"column\":\"creation_time\",\"table\":\"tabCustomer\",\"type\":\"Datetime\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"Datetime - Customer\",\"value\":\"tabCustomer.creation_time\"},\"993770\":{\"label\":\"Creation Time\",\"column\":\"creation_time\",\"table\":\"tabCustomer\",\"type\":\"Datetime\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"Datetime - Customer\",\"value\":\"tabCustomer.creation_time\"}},\"column\":{\"label\":\"Creation\",\"column\":\"creation\",\"type\":\"Datetime\",\"table\":\"tabCustomer\",\"data_source\":\"Site DB\",\"description\":\"Datetime - Customer\",\"value\":\"tabCustomer.creation\"}}",
+  "parent": "DSH-0011",
+  "parentfield": "items",
+  "parenttype": "Insights Dashboard"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Dashboard Item",
+  "item_id": "705075",
+  "item_type": "Table",
+  "layout": "{\"i\":705075,\"x\":0,\"y\":7,\"w\":6,\"h\":13,\"moved\":false}",
+  "modified": "2024-07-11 13:33:37.072024",
+  "name": 7,
+  "options": "{\"columns\":[{\"column\":\"Type Of Customer\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Total Customers\",\"column_options\":{\"column_type\":\"Text\"}}],\"query\":\"QRY-0004\",\"title\":\"Type of Customers\",\"index\":true,\"showTotal\":true,\"filtersEnabled\":true}",
+  "parent": "DSH-0011",
+  "parentfield": "items",
+  "parenttype": "Insights Dashboard"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Dashboard Item",
+  "item_id": "133785",
+  "item_type": "Table",
+  "layout": "{\"i\":133785,\"x\":6,\"y\":7,\"w\":7,\"h\":13,\"moved\":false}",
+  "modified": "2024-07-11 13:33:37.072024",
+  "name": 8,
+  "options": "{\"columns\":[{\"column\":\"Status\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Total Customers\",\"column_options\":{\"column_type\":\"Text\"}}],\"query\":\"QRY-0002\",\"title\":\"Status of Customers\",\"index\":true,\"showTotal\":true,\"filtersEnabled\":true}",
+  "parent": "DSH-0011",
+  "parentfield": "items",
+  "parenttype": "Insights Dashboard"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Dashboard Item",
+  "item_id": "22272",
+  "item_type": "Number",
+  "layout": "{\"i\":22272,\"x\":0,\"y\":2,\"w\":6,\"h\":5,\"moved\":false}",
+  "modified": "2024-07-11 13:33:37.072024",
+  "name": 11,
+  "options": "{\"query\":\"QRY-0012\",\"title\":\"Total Customers\",\"column\":\"Total Customers\",\"shorten\":false}",
+  "parent": "DSH-0011",
+  "parentfield": "items",
+  "parenttype": "Insights Dashboard"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Dashboard Item",
+  "item_id": "489888",
+  "item_type": "Number",
+  "layout": "{\"i\":489888,\"x\":6,\"y\":2,\"w\":6,\"h\":5,\"moved\":false}",
+  "modified": "2024-07-11 13:33:37.072024",
+  "name": 14,
+  "options": "{\"query\":\"QRY-0015\",\"title\":\"Customer Referral Rate \",\"column\":\"Referral Rate\",\"shorten\":false}",
+  "parent": "DSH-0011",
+  "parentfield": "items",
+  "parenttype": "Insights Dashboard"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Dashboard Item",
+  "item_id": "557590",
+  "item_type": "Table",
+  "layout": "{\"i\":557590,\"x\":13,\"y\":7,\"w\":7,\"h\":13,\"moved\":false}",
+  "modified": "2024-07-11 13:33:37.072024",
+  "name": 19,
+  "options": "{\"columns\":[{\"column\":\"Lead Source\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Total Customers\",\"column_options\":{\"column_type\":\"Text\"}}],\"query\":\"QRY-0003\",\"title\":\"Lead Source\",\"index\":true,\"showTotal\":true,\"filtersEnabled\":true}",
+  "parent": "DSH-0011",
+  "parentfield": "items",
+  "parenttype": "Insights Dashboard"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Dashboard Item",
+  "item_id": "614146",
+  "item_type": "Table",
+  "layout": "{\"i\":614146,\"x\":0,\"y\":21,\"w\":10,\"h\":22,\"moved\":false}",
+  "modified": "2024-07-11 13:33:37.072024",
+  "name": 24,
+  "options": "{\"columns\":[{\"column\":\"Referral Company\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Customers\",\"column_options\":{\"column_type\":\"Text\"}}],\"query\":\"QRY-0016\",\"title\":\"Franchise wise Customers\",\"index\":true,\"showTotal\":true,\"filtersEnabled\":true}",
+  "parent": "DSH-0011",
+  "parentfield": "items",
+  "parenttype": "Insights Dashboard"
+ }
+]

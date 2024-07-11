@@ -9,6 +9,65 @@ app_license = "mit"
 # Includes in <head>
 # ------------------
 
+
+fixtures = [{
+      "dt": "Insights Query Chart"
+    },
+    {
+      "dt": "Insights Team"
+    },
+    {
+      "dt": "Insights Resource Permission"
+    },
+    {
+      "dt": "Insights Chart"
+    },
+    {
+      "dt": "Insights Settings"
+    },
+    {
+      "dt": "Insights Data Source"
+    },
+    {
+      "dt": "Insights Alert"
+    },
+    {
+      "dt": "Insights Dashboard"
+    },
+    {
+      "dt": "Insights Table Import"
+    },
+    {
+      "dt": "Insights Notebook"
+    },
+    {
+      "dt": "Insights Dashboard Item"
+    },
+    {
+      "dt": "Insights Query Transform"
+    },
+    {
+      "dt": "Insights Query Variable"
+    },
+    {
+      "dt": "Insights Table"
+    },
+    {
+      "dt": "Insights Table Link"
+    },
+    {
+      "dt": "Insights Query Result"
+    },
+    {
+      "dt": "Insights Query"
+    },
+    {
+      "dt": "Insights Notebook Page"
+    },
+    {
+      "dt": "Insights Query Execution Log"
+    }]
+
 # include js, css files in header of desk.html
 # app_include_css = "/assets/insights_fixtures_app/css/insights_fixtures_app.css"
 # app_include_js = "/assets/insights_fixtures_app/js/insights_fixtures_app.js"

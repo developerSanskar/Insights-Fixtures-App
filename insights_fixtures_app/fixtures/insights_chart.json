@@ -1,0 +1,90 @@
+[
+ {
+  "chart_type": "Table",
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-05-21 16:33:39.419360",
+  "name": "sjv031de3n",
+  "options": "{\"columns\":[\"Total Customers\"],\"title\":\"Total Customers Visual Query\",\"query\":\"QRY-0001\"}",
+  "public_key": null,
+  "query": "QRY-0001"
+ },
+ {
+  "chart_type": "Table",
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-06-27 10:22:04.243692",
+  "name": "sk9os9e458",
+  "options": "{\"columns\":[{\"column\":\"Status\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Total Customers\",\"column_options\":{\"column_type\":\"Number\"}}],\"title\":\"Status of Customer Visual Query\",\"query\":\"QRY-0002\"}",
+  "public_key": null,
+  "query": "QRY-0002"
+ },
+ {
+  "chart_type": "Table",
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-05-22 08:04:46.229562",
+  "name": "skto1ectjm",
+  "options": "{\"columns\":[\"Lead Source\",\"Total Customers\",\"Referral Rate\"],\"title\":\"Customer Referral Rate Visual Query\\u00a0\\u00a0\",\"query\":\"QRY-0005\"}",
+  "public_key": null,
+  "query": "QRY-0005"
+ },
+ {
+  "chart_type": "Table",
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-05-21 16:33:33.040526",
+  "name": "skgqcgg072",
+  "options": "{\"columns\":[\"Lead Source\",\"Total Customers\"],\"title\":\"Lead Source Visual Query\",\"query\":\"QRY-0003\"}",
+  "public_key": null,
+  "query": "QRY-0003"
+ },
+ {
+  "chart_type": "Table",
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-05-21 16:33:24.389586",
+  "name": "sknq9lil2u",
+  "options": "{\"columns\":[\"Type Of Customer\",\"Total Customers\"],\"title\":\"Type of Customer Visual Query\",\"query\":\"QRY-0004\"}",
+  "public_key": null,
+  "query": "QRY-0004"
+ },
+ {
+  "chart_type": "Table",
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-05-22 13:00:56.022928",
+  "name": "j5ntin9onk",
+  "options": "{\"columns\":[\"Referral Rate\"],\"title\":\"Customer Referral Rate\\u00a0 \\u00a0\",\"query\":\"QRY-0015\"}",
+  "public_key": null,
+  "query": "QRY-0015"
+ },
+ {
+  "chart_type": "Table",
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-05-22 08:16:32.113762",
+  "name": "dkie43230p",
+  "options": "{\"columns\":[\"Total Customers\",\"Active Customers\",\"Referral rate\",\"New Customers\"],\"title\":\"Referral Rate Visual Query\",\"query\":\"QRY-0012\"}",
+  "public_key": null,
+  "query": "QRY-0012"
+ },
+ {
+  "chart_type": "Table",
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-05-24 08:53:57.562106",
+  "name": "n4rtmnnsbt",
+  "options": "{\"columns\":[\"Referral Company\",\"Count of Rows\"],\"title\":\"Franchise wise Cusstomers\",\"query\":\"QRY-0016\"}",
+  "public_key": null,
+  "query": "QRY-0016"
+ }
+]

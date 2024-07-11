@@ -1,0 +1,587 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-05-21 16:28:54.564041",
+  "name": "sjv1rs3c2s",
+  "query": "QRY-0001",
+  "results": "[\n [\n  {\n   \"label\": \"Total Customers\",\n   \"options\": {\n    \"date_format\": \"\"\n   },\n   \"type\": \"Integer\"\n  }\n ],\n [\n  1926\n ]\n]",
+  "results_row_count": 1
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-05-21 16:29:28.876808",
+  "name": "sk9opkl4du",
+  "query": "QRY-0002",
+  "results": "[\n [\n  {\n   \"label\": \"Status\",\n   \"options\": {\n    \"date_format\": \"\"\n   },\n   \"type\": \"String\"\n  },\n  {\n   \"label\": \"Total Customers\",\n   \"options\": {\n    \"date_format\": \"\"\n   },\n   \"type\": \"Integer\"\n  }\n ],\n [\n  \"Active\",\n  12750\n ],\n [\n  \"Churn\",\n  12737\n ],\n [\n  \"Inactive\",\n  3463\n ],\n [\n  \"Lead\",\n  22605\n ],\n [\n  \"Passive\",\n  4417\n ]\n]",
+  "results_row_count": 5
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-05-21 16:29:51.525244",
+  "name": "skgrpnm6k8",
+  "query": "QRY-0003",
+  "results": "[\n [\n  {\n   \"label\": \"Lead Source\",\n   \"options\": {\n    \"date_format\": \"\"\n   },\n   \"type\": \"String\"\n  },\n  {\n   \"label\": \"Total Customers\",\n   \"options\": {\n    \"date_format\": \"\"\n   },\n   \"type\": \"Integer\"\n  }\n ],\n [\n  \"\",\n  51124\n ],\n [\n  \"Customer Referral\",\n  220\n ],\n [\n  \"Generic\",\n  107\n ],\n [\n  \"Promo/ Campaign\",\n  57\n ],\n [\n  \"Staff\",\n  2924\n ],\n [\n  \"Vitol Project\",\n  1540\n ]\n]",
+  "results_row_count": 6
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-05-21 16:30:13.953646",
+  "name": "sknr5of3hr",
+  "query": "QRY-0004",
+  "results": "[\n [\n  {\n   \"label\": \"Type Of Customer\",\n   \"options\": {\n    \"date_format\": \"\"\n   },\n   \"type\": \"String\"\n  },\n  {\n   \"label\": \"Total Customers\",\n   \"options\": {\n    \"date_format\": \"\"\n   },\n   \"type\": \"Integer\"\n  }\n ],\n [\n  \"Businesses / Offices\",\n  4800\n ],\n [\n  \"Drink-On-Us\",\n  14\n ],\n [\n  \"Households\",\n  42919\n ],\n [\n  \"Institutions - SMEs/Corporate\",\n  151\n ],\n [\n  \"Resellers\",\n  5818\n ],\n [\n  \"Walk -in\",\n  39\n ],\n [\n  \"Walk-in\",\n  2231\n ]\n]",
+  "results_row_count": 7
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-05-21 16:30:32.902456",
+  "name": "sktpujg09d",
+  "query": "QRY-0005",
+  "results": "[\n [\n  {\n   \"label\": \"Lead Source\",\n   \"options\": {\n    \"date_format\": \"\"\n   },\n   \"type\": \"String\"\n  },\n  {\n   \"label\": \"Total Customers\",\n   \"options\": {\n    \"date_format\": \"\"\n   },\n   \"type\": \"Integer\"\n  },\n  {\n   \"label\": \"Referral Rate\",\n   \"options\": {\n    \"date_format\": \"\"\n   },\n   \"type\": \"Decimal\"\n  }\n ],\n [\n  \"\",\n  1582,\n  81.9689\n ],\n [\n  \"Customer Referral\",\n  34,\n  1.7617\n ],\n [\n  \"Promo/ Campaign\",\n  27,\n  1.399\n ],\n [\n  \"Staff\",\n  287,\n  14.8705\n ]\n]",
+  "results_row_count": 4
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-05-21 16:32:50.462857",
+  "name": "sm8o2ropmv",
+  "query": "QRY-0009",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-05-21 16:32:50.516615",
+  "name": "sm8p1bs7m7",
+  "query": "QRY-0008",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-05-21 16:32:56.823177",
+  "name": "smaoviql4d",
+  "query": "QRY-0007",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-05-21 16:32:56.890035",
+  "name": "smao1vlj11",
+  "query": "QRY-0006",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-05-22 07:58:22.250853",
+  "name": "dkiemv055o",
+  "query": "QRY-0012",
+  "results": "[\n [\n  {\n   \"label\": \"Total Customers\",\n   \"options\": {\n    \"date_format\": \"\"\n   },\n   \"type\": \"Integer\"\n  },\n  {\n   \"label\": \"Active Customers\",\n   \"options\": {\n    \"date_format\": \"\"\n   },\n   \"type\": \"Decimal\"\n  },\n  {\n   \"label\": \"Referral rate\",\n   \"options\": {\n    \"date_format\": \"\"\n   },\n   \"type\": \"Decimal\"\n  },\n  {\n   \"label\": \"New Customers\",\n   \"options\": {\n    \"date_format\": \"\"\n   },\n   \"type\": \"Decimal\"\n  }\n ],\n [\n  55972,\n  12750.0,\n  22.7792,\n  43222.0\n ]\n]",
+  "results_row_count": 1
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-05-22 13:00:23.488719",
+  "name": "j5haj2ngem",
+  "query": "QRY-0014",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-05-22 13:00:44.599921",
+  "name": "j5ntfj7av1",
+  "query": "QRY-0015",
+  "results": "[\n [\n  {\n   \"label\": \"Referral Rate\",\n   \"options\": {\n    \"date_format\": \"\"\n   },\n   \"type\": \"Decimal\"\n  }\n ],\n [\n  0.3931\n ]\n]",
+  "results_row_count": 1
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-05-22 16:37:42.192595",
+  "name": "n4rta25on1",
+  "query": "QRY-0016",
+  "results": "[\n [\n  {\n   \"label\": \"Referral Company\",\n   \"options\": {\n    \"date_format\": \"\"\n   },\n   \"type\": \"String\"\n  },\n  {\n   \"label\": \"Customers\",\n   \"options\": {\n    \"date_format\": \"\"\n   },\n   \"type\": \"Integer\"\n  }\n ],\n [\n  null,\n  21592\n ],\n [\n  \"BIRERE\",\n  70\n ],\n [\n  \"CCLK\",\n  21\n ],\n [\n  \"Dickson Katto Reseller\",\n  2\n ],\n [\n  \"Gareth Kaboine Reseller\",\n  7\n ],\n [\n  \"Goma POS\",\n  2\n ],\n [\n  \"Goma Training\",\n  1\n ],\n [\n  \"Jesca Reseller\",\n  32\n ],\n [\n  \"Jibu Adenta\",\n  176\n ],\n [\n  \"Jibu Arua\",\n  297\n ],\n [\n  \"Jibu Asylum Down\",\n  75\n ],\n [\n  \"Jibu Bugarama\",\n  47\n ],\n [\n  \"Jibu Bugolobi\",\n  195\n ],\n [\n  \"Jibu Bulenga\",\n  270\n ],\n [\n  \"Jibu Buliisa\",\n  33\n ],\n [\n  \"Jibu Bumbogo\",\n  27\n ],\n [\n  \"Jibu Buruburu\",\n  556\n ],\n [\n  \"Jibu Busanza\",\n  21\n ],\n [\n  \"Jibu Dansoman\",\n  11\n ],\n [\n  \"Jibu Donholm\",\n  1\n ],\n [\n  \"Jibu Downtown\",\n  528\n ],\n [\n  \"Jibu Eastleigh\",\n  1822\n ],\n [\n  \"Jibu Entebbe\",\n  151\n ],\n [\n  \"Jibu Fedha\",\n  231\n ],\n [\n  \"Jibu Fort Portal\",\n  232\n ],\n [\n  \"Jibu Gahanga\",\n  110\n ],\n [\n  \"Jibu Gasogi\",\n  66\n ],\n [\n  \"Jibu Gatenga\",\n  65\n ],\n [\n  \"Jibu Gatsata\",\n  85\n ],\n [\n  \"Jibu Gayaza\",\n  215\n ],\n [\n  \"Jibu Ggaba\",\n  295\n ],\n [\n  \"Jibu Gicumbi\",\n  24\n ],\n [\n  \"Jibu Gikondo\",\n  18\n ],\n [\n  \"Jibu Gikondo II\",\n  49\n ],\n [\n  \"Jibu Gisagara\",\n  9\n ],\n [\n  \"Jibu Gisenyi I\",\n  81\n ],\n [\n  \"Jibu Gisenyi II\",\n  10\n ],\n [\n  \"Jibu Gulu II\",\n  247\n ],\n [\n  \"Jibu Hoima\",\n  386\n ],\n [\n  \"Jibu Huye\",\n  82\n ],\n [\n  \"Jibu Imara Daima\",\n  109\n ],\n [\n  \"Jibu Jinja\",\n  338\n ],\n [\n  \"Jibu Kabarore\",\n  39\n ],\n [\n  \"Jibu Kabete\",\n  171\n ],\n [\n  \"Jibu Kabeza\",\n  66\n ],\n [\n  \"Jibu Kabuga\",\n  91\n ],\n [\n  \"Jibu Kabuga II\",\n  43\n ],\n [\n  \"Jibu Kabuusu\",\n  264\n ],\n [\n  \"Jibu Kagarama\",\n  32\n ],\n [\n  \"Jibu Kagugu\",\n  9\n ],\n [\n  \"Jibu Kahawa\",\n  407\n ],\n [\n  \"Jibu Kamwokya\",\n  1073\n ],\n [\n  \"Jibu Kanombe\",\n  46\n ],\n [\n  \"Jibu Kanombe II\",\n  148\n ],\n [\n  \"Jibu Karen\",\n  127\n ],\n [\n  \"Jibu Karongi\",\n  33\n ],\n [\n  \"Jibu Kasese\",\n  180\n ],\n [\n  \"Jibu Kasubi\",\n  246\n ],\n [\n  \"Jibu Kawempe\",\n  323\n ],\n [\n  \"Jibu Kawuku\",\n  170\n ],\n [\n  \"Jibu Kayonza\",\n  32\n ],\n [\n  \"Jibu Kiambu\",\n  2914\n ],\n [\n  \"Jibu Kibagabaga\",\n  191\n ],\n [\n  \"Jibu Kibungo Ngoma\",\n  44\n ],\n [\n  \"Jibu Kicukiro\",\n  92\n ],\n [\n  \"Jibu Kikuyu\",\n  1\n ],\n [\n  \"Jibu Kileleshwa\",\n  230\n ],\n [\n  \"Jibu Kilimani\",\n  238\n ],\n [\n  \"Jibu Kimironko I\",\n  63\n ],\n [\n  \"Jibu Kimironko II\",\n  12\n ],\n [\n  \"Jibu Kimisagara\",\n  93\n ],\n [\n  \"Jibu Kinamba\",\n  44\n ],\n [\n  \"Jibu Kinyinya\",\n  91\n ],\n [\n  \"Jibu Kirehe\",\n  32\n ],\n [\n  \"Jibu Kireka\",\n  110\n ],\n [\n  \"Jibu Kiryandongo\",\n  650\n ],\n [\n  \"Jibu Kisaasi\",\n  176\n ],\n [\n  \"Jibu Kisugu\",\n  100\n ],\n [\n  \"Jibu Kitende\",\n  245\n ],\n [\n  \"Jibu Kyebando\",\n  235\n ],\n [\n  \"Jibu Kyengera\",\n  162\n ],\n [\n  \"Jibu Lavington\",\n  3682\n ],\n [\n  \"Jibu Lira\",\n  469\n ],\n [\n  \"Jibu Lower Langata\",\n  1069\n ],\n [\n  \"Jibu Madina\",\n  597\n ],\n [\n  \"Jibu Mahoko\",\n  74\n ],\n [\n  \"Jibu Makindye\",\n  64\n ],\n [\n  \"Jibu Masaka\",\n  563\n ],\n [\n  \"Jibu Mayange\",\n  75\n ],\n [\n  \"Jibu Mbale\",\n  369\n ],\n [\n  \"Jibu Mbarara I\",\n  363\n ],\n [\n  \"Jibu Mbarara II\",\n  240\n ],\n [\n  \"Jibu Migosi\",\n  342\n ],\n [\n  \"Jibu Mirema\",\n  94\n ],\n [\n  \"Jibu Muhanga I\",\n  68\n ],\n [\n  \"Jibu Muhanga II\",\n  23\n ],\n [\n  \"Jibu Muhima\",\n  439\n ],\n [\n  \"Jibu Mukono\",\n  195\n ],\n [\n  \"Jibu Munyonyo\",\n  214\n ],\n [\n  \"Jibu Musambira\",\n  11\n ]\n]",
+  "results_row_count": 100
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-06-04 14:40:30.448462",
+  "name": "boug5skgcp",
+  "query": "QRY-0020",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-06-04 14:40:39.414679",
+  "name": "bp1a0me6f4",
+  "query": "QRY-0019",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-06-04 14:55:56.721847",
+  "name": "c1vvg6uve9",
+  "query": "QRY-0021",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-06-10 10:50:04.482646",
+  "name": "5ods8f4av9",
+  "query": "QRY-0031",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-06-10 15:14:06.678908",
+  "name": "aj4iqsfqq8",
+  "query": "QRY-0030",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-06-11 16:13:44.629568",
+  "name": "61qme1ckje",
+  "query": "QRY-0036",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-06-12 14:42:29.591470",
+  "name": "uo3nha891a",
+  "query": "QRY-0038",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-06-12 14:45:17.830612",
+  "name": "upoaqi0sdm",
+  "query": "QRY-0041",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-06-19 16:05:30.225589",
+  "name": "or061719en",
+  "query": "QRY-0060",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-06-19 16:32:24.981230",
+  "name": "paoprn7031",
+  "query": "QRY-0061",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-06-19 16:33:50.726029",
+  "name": "pbjjgv3br4",
+  "query": "QRY-0062",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-06-26 13:29:27.850322",
+  "name": "ehqetgcerc",
+  "query": "QRY-0063",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-06-27 09:09:53.856647",
+  "name": "45fipau4na",
+  "query": "QRY-0067",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-06-27 13:23:36.667033",
+  "name": "8q4ma9gqam",
+  "query": "QRY-0071",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:36:53.758735",
+  "name": "q6dp9rhjul",
+  "query": "QRY-0079",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:36:56.926866",
+  "name": "q6epjlu37q",
+  "query": "QRY-0078",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:36:57.136304",
+  "name": "q6erk8fhpp",
+  "query": "QRY-0077",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:36:57.848598",
+  "name": "q6f2htodlg",
+  "query": "QRY-0076",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:36:58.271373",
+  "name": "q6f60ep2l4",
+  "query": "QRY-0074",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:36:58.818336",
+  "name": "q6fc6fdd8n",
+  "query": "QRY-0073",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:36:59.127850",
+  "name": "q6ff20fgi6",
+  "query": "QRY-0072",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:37:00.271642",
+  "name": "q6fq2ajrvg",
+  "query": "QRY-0070",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:37:00.649325",
+  "name": "q6fukrahir",
+  "query": "QRY-0069",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:37:01.029831",
+  "name": "q6g21i5shl",
+  "query": "QRY-0068",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:37:01.984305",
+  "name": "q6gbpfovho",
+  "query": "QRY-0064",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:37:02.220155",
+  "name": "q6gea5r8ge",
+  "query": "QRY-0059",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:37:02.492336",
+  "name": "q6gg40h87g",
+  "query": "QRY-0058",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:37:02.815368",
+  "name": "q6gkosvnta",
+  "query": "QRY-0057",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:37:03.261325",
+  "name": "q6go1ijb6h",
+  "query": "QRY-0056",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:37:03.807494",
+  "name": "q6guedp7jh",
+  "query": "QRY-0055",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:37:05.598616",
+  "name": "q6hfj533lq",
+  "query": "QRY-0053",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:37:12.973334",
+  "name": "q6jpa7j0o4",
+  "query": "QRY-0052",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:37:14.806651",
+  "name": "q6kcspudg9",
+  "query": "QRY-0035",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:37:15.996492",
+  "name": "q6knm8rula",
+  "query": "QRY-0033",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:38:40.541511",
+  "name": "q7f53i9i91",
+  "query": "QRY-0051",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:38:44.406884",
+  "name": "q7gcbpb3au",
+  "query": "QRY-0048",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:38:44.662314",
+  "name": "q7ge1rddpa",
+  "query": "QRY-0045",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:38:44.906936",
+  "name": "q7gh5bpt2k",
+  "query": "QRY-0044",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:38:45.356507",
+  "name": "q7gltmca5n",
+  "query": "QRY-0042",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:38:45.651825",
+  "name": "q7goi9971d",
+  "query": "QRY-0032",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:38:46.105159",
+  "name": "q7gtg9d557",
+  "query": "QRY-0029",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:38:46.488690",
+  "name": "q7h0qmjkbp",
+  "query": "QRY-0028",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:38:46.979464",
+  "name": "q7h5jf2b1k",
+  "query": "QRY-0027",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:38:54.084022",
+  "name": "q7jcrniqp4",
+  "query": "QRY-0026",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:39:01.891964",
+  "name": "q7lq3aupu6",
+  "query": "QRY-0025",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:39:04.813743",
+  "name": "q7mofispb2",
+  "query": "QRY-0023",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:39:07.362077",
+  "name": "q7nheig6mg",
+  "query": "QRY-0022",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:39:12.987893",
+  "name": "q7p99bguqk",
+  "query": "QRY-0018",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:39:16.297725",
+  "name": "q7qasdhsre",
+  "query": "QRY-0017",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:39:21.652146",
+  "name": "q7s08ukrj3",
+  "query": "QRY-0010",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:39:54.713432",
+  "name": "q86bvekrfp",
+  "query": "QRY-0047",
+  "results": null,
+  "results_row_count": 0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Query Result",
+  "modified": "2024-07-11 13:39:56.646777",
+  "name": "q86ua7p1qs",
+  "query": "QRY-0046",
+  "results": null,
+  "results_row_count": 0
+ }
+]
