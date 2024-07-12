@@ -37,6 +37,17 @@
   "docstatus": 0,
   "doctype": "Insights Chart",
   "is_public": 0,
+  "modified": "2024-07-12 09:59:44.265832",
+  "name": "gi55gb6bbk",
+  "options": "{\"columns\":[\"SKU\",\"Type Of Customer\",\"Refills\",\"Customer\",\"Refill Rate\"],\"title\":\"Average # of refill SKUs per Customer Type\\u00a0\",\"query\":\"QRY-0084\"}",
+  "public_key": null,
+  "query": "QRY-0084"
+ },
+ {
+  "chart_type": "Table",
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
   "modified": "2024-05-21 16:33:33.040526",
   "name": "skgqcgg072",
   "options": "{\"columns\":[\"Lead Source\",\"Total Customers\"],\"title\":\"Lead Source Visual Query\",\"query\":\"QRY-0003\"}",

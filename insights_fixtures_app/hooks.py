@@ -41,9 +41,6 @@ fixtures = [{
       "dt": "Insights Notebook"
     },
     {
-      "dt": "Insights Dashboard Item"
-    },
-    {
       "dt": "Insights Query Transform"
     },
     {

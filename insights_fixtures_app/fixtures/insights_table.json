@@ -47867,5 +47867,59 @@
   "name": "au30sb2v9m",
   "table": "tabStock Entry Detail",
   "table_links": []
+ },
+ {
+  "columns": [
+   {
+    "column": "SKU",
+    "label": "SKU",
+    "parent": "gisctmpsg8",
+    "parentfield": "columns",
+    "parenttype": "Insights Table",
+    "type": "String"
+   },
+   {
+    "column": "Type Of Customer",
+    "label": "Type Of Customer",
+    "parent": "gisctmpsg8",
+    "parentfield": "columns",
+    "parenttype": "Insights Table",
+    "type": "String"
+   },
+   {
+    "column": "Refills",
+    "label": "Refills",
+    "parent": "gisctmpsg8",
+    "parentfield": "columns",
+    "parenttype": "Insights Table",
+    "type": "Decimal"
+   },
+   {
+    "column": "Customer",
+    "label": "Customer",
+    "parent": "gisctmpsg8",
+    "parentfield": "columns",
+    "parenttype": "Insights Table",
+    "type": "Decimal"
+   },
+   {
+    "column": "Refill Rate",
+    "label": "Refill Rate",
+    "parent": "gisctmpsg8",
+    "parentfield": "columns",
+    "parenttype": "Insights Table",
+    "type": "Decimal"
+   }
+  ],
+  "data_source": "Site DB",
+  "docstatus": 0,
+  "doctype": "Insights Table",
+  "hidden": 0,
+  "is_query_based": 1,
+  "label": "Average # of refill SKUs per Customer Type ",
+  "modified": "2024-07-12 09:59:38.814635",
+  "name": "gisctmpsg8",
+  "table": "QRY-0084",
+  "table_links": []
  }
 ]

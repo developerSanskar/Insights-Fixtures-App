@@ -72,5 +72,52 @@
   "name": "DSH-0080",
   "public_key": null,
   "title": "Customer Dashboard"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Dashboard",
+  "is_public": 0,
+  "items": [
+   {
+    "item_id": "237013",
+    "item_type": "Table",
+    "layout": "{\"i\":237013,\"x\":0,\"y\":2,\"w\":20,\"h\":21,\"moved\":false}",
+    "options": "{\"columns\":[],\"query\":\"QRY-0084\",\"index\":true,\"showTotal\":true,\"filtersEnabled\":true}",
+    "parent": "DSH-0085",
+    "parentfield": "items",
+    "parenttype": "Insights Dashboard"
+   },
+   {
+    "item_id": "366293",
+    "item_type": "Filter",
+    "layout": "{\"i\":366293,\"x\":0,\"y\":0,\"w\":6,\"h\":2,\"moved\":false}",
+    "options": "{\"links\":{\"237013\":{\"label\":\"Referral Company\",\"column\":\"referral_company\",\"table\":\"tabCustomer\",\"type\":\"String\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"String - Customer\",\"value\":\"tabCustomer.referral_company\"}},\"column\":{\"label\":\"Referral Company\",\"column\":\"referral_company\",\"type\":\"String\",\"table\":\"tabCustomer\",\"data_source\":\"Site DB\",\"description\":\"String - Customer\",\"value\":\"tabCustomer.referral_company\"}}",
+    "parent": "DSH-0085",
+    "parentfield": "items",
+    "parenttype": "Insights Dashboard"
+   },
+   {
+    "item_id": "409513",
+    "item_type": "Filter",
+    "layout": "{\"i\":409513,\"x\":6,\"y\":0,\"w\":5,\"h\":2,\"moved\":false}",
+    "options": "{\"links\":{\"237013\":{\"label\":\"Posting Date\",\"column\":\"posting_date\",\"table\":\"tabSales Invoice\",\"type\":\"Date\",\"table_label\":\"Sales Invoice\",\"data_source\":\"Site DB\",\"description\":\"Date - Sales Invoice\",\"value\":\"tabSales Invoice.posting_date\"}},\"column\":{\"label\":\"Posting Date\",\"column\":\"posting_date\",\"type\":\"Date\",\"table\":\"tabSales Invoice\",\"data_source\":\"Site DB\",\"description\":\"Date - Sales Invoice\",\"value\":\"tabSales Invoice.posting_date\"}}",
+    "parent": "DSH-0085",
+    "parentfield": "items",
+    "parenttype": "Insights Dashboard"
+   },
+   {
+    "item_id": "985562",
+    "item_type": "Filter",
+    "layout": "{\"i\":985562,\"x\":11,\"y\":0,\"w\":5,\"h\":2,\"moved\":false}",
+    "options": "{\"links\":{\"237013\":{\"label\":\"Item Name\",\"column\":\"item_name\",\"table\":\"tabSales Invoice Item\",\"type\":\"String\",\"table_label\":\"Sales Invoice Item\",\"data_source\":\"Site DB\",\"description\":\"String - Sales Invoice Item\",\"value\":\"tabSales Invoice Item.item_name\"}},\"column\":{\"label\":\"Item Name\",\"column\":\"item_name\",\"type\":\"String\",\"table\":\"tabSales Invoice Item\",\"data_source\":\"Site DB\",\"description\":\"String - Sales Invoice Item\",\"value\":\"tabSales Invoice Item.item_name\"}}",
+    "parent": "DSH-0085",
+    "parentfield": "items",
+    "parenttype": "Insights Dashboard"
+   }
+  ],
+  "modified": "2024-07-12 10:01:14.245173",
+  "name": "DSH-0085",
+  "public_key": null,
+  "title": "Refill Rate"
  }
 ]
