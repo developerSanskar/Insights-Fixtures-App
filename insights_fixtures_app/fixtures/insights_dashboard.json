@@ -66,9 +66,18 @@
     "parent": "DSH-0080",
     "parentfield": "items",
     "parenttype": "Insights Dashboard"
+   },
+   {
+    "item_id": "258497",
+    "item_type": "Filter",
+    "layout": "{\"i\":258497,\"x\":5,\"y\":0,\"w\":5,\"h\":2,\"moved\":false}",
+    "options": "{\"links\":{\"22272\":{\"label\":\"Territory\",\"column\":\"territory\",\"table\":\"tabCustomer\",\"type\":\"String\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"String - Customer\",\"value\":\"tabCustomer.territory\"},\"133785\":{\"label\":\"Territory\",\"column\":\"territory\",\"table\":\"tabCustomer\",\"type\":\"String\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"String - Customer\",\"value\":\"tabCustomer.territory\"},\"489888\":{\"label\":\"Territory\",\"column\":\"territory\",\"table\":\"tabCustomer\",\"type\":\"String\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"String - Customer\",\"value\":\"tabCustomer.territory\"},\"557590\":{\"label\":\"Territory\",\"column\":\"territory\",\"table\":\"tabCustomer\",\"type\":\"String\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"String - Customer\",\"value\":\"tabCustomer.territory\"},\"614146\":{\"label\":\"Territory\",\"column\":\"territory\",\"table\":\"tabCustomer\",\"type\":\"String\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"String - Customer\",\"value\":\"tabCustomer.territory\"},\"705075\":{\"label\":\"Territory\",\"column\":\"territory\",\"table\":\"tabCustomer\",\"type\":\"String\",\"table_label\":\"Customer\",\"data_source\":\"Site DB\",\"description\":\"String - Customer\",\"value\":\"tabCustomer.territory\"}},\"column\":{\"label\":\"Territory\",\"column\":\"territory\",\"type\":\"String\",\"table\":\"tabCustomer\",\"data_source\":\"Site DB\",\"description\":\"String - Customer\",\"value\":\"tabCustomer.territory\"}}",
+    "parent": "DSH-0080",
+    "parentfield": "items",
+    "parenttype": "Insights Dashboard"
    }
   ],
-  "modified": "2024-07-12 09:33:54.826815",
+  "modified": "2024-07-12 10:12:20.197367",
   "name": "DSH-0080",
   "public_key": null,
   "title": "Customer Dashboard"
@@ -82,7 +91,7 @@
     "item_id": "237013",
     "item_type": "Table",
     "layout": "{\"i\":237013,\"x\":0,\"y\":2,\"w\":20,\"h\":21,\"moved\":false}",
-    "options": "{\"columns\":[],\"query\":\"QRY-0084\",\"index\":true,\"showTotal\":true,\"filtersEnabled\":true}",
+    "options": "{\"columns\":[\"SKU\",\"Type Of Customer\",\"Refills\",\"Customer\",\"Refill Rate\"],\"query\":\"QRY-0084\",\"index\":true,\"showTotal\":true,\"filtersEnabled\":true}",
     "parent": "DSH-0085",
     "parentfield": "items",
     "parenttype": "Insights Dashboard"
@@ -115,7 +124,7 @@
     "parenttype": "Insights Dashboard"
    }
   ],
-  "modified": "2024-07-12 10:01:14.245173",
+  "modified": "2024-07-12 10:11:24.548115",
   "name": "DSH-0085",
   "public_key": null,
   "title": "Refill Rate"
